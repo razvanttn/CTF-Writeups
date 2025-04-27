@@ -1,4 +1,4 @@
-# 🛡️ Welcome – SSS CTF Challange Writeup
+#  Welcome – SSS CTF Challange Writeup
 
 | Info        | Details            |
 |-------------|--------------------|
