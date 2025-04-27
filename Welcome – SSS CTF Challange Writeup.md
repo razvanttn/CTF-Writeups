@@ -8,7 +8,7 @@
 
 #  Challenge Overview
 
-> This challange hides a flag splitted in 4 parts, as we're being told in the home
+> This challange hides a flag splitted in 4 parts, as we're being told in the home page.
 
 
 #  Steps
