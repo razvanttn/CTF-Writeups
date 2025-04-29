@@ -8,7 +8,7 @@
 # Challenge Overview
 
 > This crypto challange seems to be weird we look at it at first. The first thing I tried was concatenating all digits and removing `/` to get some binary text. Nothing happened.
-![overview][https://imgur.com/a/B7twxjx]
+![overview][https://i.imgur.com/2bMEGha.png]
 
 ## Given ciphertext
 >00 0001 000 101 010 1001 / 011010 1000 01 000 0000 / 0000 010 / 0000 010 000 110 / 00001 01111 11 11111 111 1000 1011 00001 1011 / 0000 010 / 1 1100 111 001 / 0001 000 110
